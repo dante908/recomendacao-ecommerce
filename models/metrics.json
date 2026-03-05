@@ -1,0 +1,13 @@
+{
+  "selected_model": "item_item_cosine",
+  "evaluation_users": 450,
+  "hit_rate_at_10": 0.1333,
+  "mrr_at_10": 0.0531,
+  "baseline_hit_rate_at_10": 0.1333,
+  "baseline_mrr_at_10": 0.0531,
+  "advanced_hit_rate_at_10": null,
+  "advanced_mrr_at_10": null,
+  "xgboost_available": false,
+  "used_optuna": false,
+  "reports_generated": 3
+}

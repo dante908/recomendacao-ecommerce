@@ -1,0 +1,11 @@
+{
+  "algorithm": "item_item_cosine",
+  "n_users": 450,
+  "n_items": 180,
+  "evaluation_users": 450,
+  "hit_rate_at_10": 0.1333,
+  "mrr_at_10": 0.0531,
+  "xgboost_available": false,
+  "used_optuna": false,
+  "reports_generated": 3
+}
